@@ -30,7 +30,7 @@ Follow the steps below to run this project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MoeNi11/emotion-detection.git
+git clone https://github.com/MoeNi11/emotion_detection.git
 ```
 
 ### 2. Navigate to the project directory
