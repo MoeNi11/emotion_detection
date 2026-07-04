@@ -1,4 +1,4 @@
-# Emotional Detection from Text
+# Emotion Detection from Text
 ## Overview
 An Emotion Detection from Text system was developed using both Machine Learning and Deep Learning techniques. This project aims to find the best algorithm to classify English text to four emotion categories : anger, fear, joy and sadness. The comparative study was conducted with four classification models which are Logistic Regression, Linear Support Vector Classifier (LinearSVC), Long Short-Term Memory (LSTM) and Bidirectional Long Short-Term Memory (BiLSTM). The project shows a complete Natural Language Processing (NLP) pipeline including Exploratory Data Analysis (EDA), text preprocessing, tokenizing, word embedding, model training, performance evaluation and deployment with a Flask web application. 
 ## Dataset
