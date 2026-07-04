@@ -42,7 +42,7 @@ cd emotion_detection
 ### 3. Install the required dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ### 4. Run the Flask application
